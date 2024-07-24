@@ -50,3 +50,9 @@ h1 {
 .score {
     font-size: 2rem;
 }
+
+@media screen and (max-width:360px) {
+    .play_choice button {
+        margin-inline: 5px;
+    }
+}
