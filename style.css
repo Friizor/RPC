@@ -39,10 +39,14 @@ h1 {
     font-weight: bold;
 }
 
-.winingText {
+.winingText, #playerScoreDisplay {
     color: hsl(120, 100%, 35%);
 }
 
-.losingText {
+.losingText, #computerScoreDisplay {
     color: hsl(9, 95%, 50%);
+}
+
+.score {
+    font-size: 2rem;
 }
