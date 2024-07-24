@@ -52,7 +52,11 @@ h1 {
 }
 
 @media screen and (max-width:360px) {
+    h1 {
+        font-size: 1.5rem;
+    }
     .play_choice button {
-        margin-inline: 5px;
+        min-width: none;
+        margin-inline: 1px;
     }
 }
