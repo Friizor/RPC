@@ -1,0 +1,40 @@
+body {
+    font-family: Tahoma, sans-serif;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    color: hsl(0, 0%, 20%);
+}
+
+.play_choice {
+    margin-bottom: 30px;
+}
+
+.play_choice button {
+    font-size: 2rem;
+    min-width: 100px;
+    margin-inline: 10px;
+    padding: 10px;
+    border-radius: 50%;
+    background-color: hsl(240, 100%, 70%);
+    cursor: pointer;
+    transition: background-color 0.5s ease;
+}
+
+.play_choice button:hover {
+    background-color: hsl(240, 100%, 80%);
+}
+
+#choice_display, #NPC_display {
+    font-size: 1.5rem;
+}
+
+#result {
+    font-size: 1.7rem;
+    margin-block: 30px;
+    font-weight: bold;
+}
