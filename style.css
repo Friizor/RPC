@@ -38,3 +38,11 @@ h1 {
     margin-block: 30px;
     font-weight: bold;
 }
+
+.winingText {
+    color: hsl(120, 100%, 35%);
+}
+
+.losingText {
+    color: hsl(9, 95%, 50%);
+}
