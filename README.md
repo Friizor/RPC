@@ -7,3 +7,6 @@ Simple Rock, Paper Scissors fun game using JavaScript
     </a><br>
     <img src="https://github.com/user-attachments/assets/3003c343-0b45-4b17-96d8-1ac4a30497b8" height="350px" alt="Screenshot">
 </div>
+
+
+`Made By Friizor`
